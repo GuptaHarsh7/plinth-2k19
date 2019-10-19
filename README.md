@@ -1,5 +1,5 @@
-# Plinth 2019 
-### Website for Plinth 2019, Techno-Management Literary Fest of LNMIIT, Jaipur
+# Plinth 2020 
+### Website for Plinth 2020, Techno-Management Literary Fest of LNMIIT, Jaipur
 ![Image](plinth2k19.png)
 The Plinth is a Techno Management Literary Fest which held every year in The LNMIIT, Jaipur, India. This fest is organised by the Student body. My sole contribution in this fest was to design and to provide an online platform through which various participant from various other institutions can access information regarding various competitions, workshops, talk series and can register and pay for the event.
 
