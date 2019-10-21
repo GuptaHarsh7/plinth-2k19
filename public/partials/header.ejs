@@ -70,7 +70,7 @@
 
 <button class="hamburger hamburger--spin" type="button">
     <span class="hamburger-box">
-        <span class="hamburger-text">Мenu</span>
+        <span class="hamburger-text">люenu</span>
         <span class="hamburger-inner"></span>
     </span>
 </button>
@@ -107,7 +107,7 @@
                 <% } %>
             </ul>
 
-            <nav>
+            <!-- <nav>
                 <ul class="header__nav">
                     <li <%if(page=="home" ){%>class="pg-active"
                         <%}%>>
@@ -150,7 +150,28 @@
                     <li><a data-toggle="modal" data-target="#exampleModalCenter" style="color:#fff">Login | Register</a><span></span></li>
                     <% } %>
                 </ul>
-            </nav>
+            </nav> -->
+			<nav id="navbar-menu">
+			<div class="logo-plinth">
+					<img src="images/logo.svg" alt="Logo Image">
+			</div>
+			<div class="hamburger">
+					<div class="line1"></div>
+					<div class="line2"></div>
+					<div class="line3"></div>
+			</div>
+			<ul class="nav-links">
+					<li><a href="#start">Home</a></li>
+					<li><a href="#intro">About</a></li>
+					<li><a href="#competition">Competitions</a></li>
+					<li><a href="#workshop">Workshops</a></li>
+					<li><a href="#talk">Talks</a></li>
+					<li><a href="#">ProShow</a></li>
+					<li><button class="login-button" href="#">Login / Register</button></li>
+					<!--<li><button class="join-button" href="#">Join</button></li>-->
+			</ul>
+		</nav>
+		<script src="nav.js"></script>
         </div>
     </div>
 </header>
